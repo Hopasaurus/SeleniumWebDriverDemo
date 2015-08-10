@@ -1,0 +1,1 @@
+This is a demo I did for GR-Testers a local Tester user group.  It shows a basic Selenium Webdriver C# project with some abstraction in the page model style.  Note that one of the tests fails, this is on purpose for the demo.
